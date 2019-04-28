@@ -1,3 +1,3 @@
 
 
-[背它beita gif 展示]("./beita.gif")
+![背它beita gif 展示](./beita.gif)
