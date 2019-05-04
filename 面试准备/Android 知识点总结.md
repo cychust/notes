@@ -135,5 +135,5 @@ onCreate()[$1] -> onStart()[$1] -> onResume()[$1] ----------开启Activity2-----
 
 
 
-#### [责任链模式]([https://github.com/Blankj/AndroidOfferKiller/blob/master/design-patterns/%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F.md](https://github.com/Blankj/AndroidOfferKiller/blob/master/design-patterns/责任链模式.md))
+#### [责任链模式](https://github.com/Blankj/AndroidOfferKiller/blob/master/design-patterns/责任链模式.md)
 
